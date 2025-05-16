@@ -26,7 +26,7 @@ This project was developed as part of the *Intel® Unnati Industrial Training 20
 
 ## 🚀 Getting Started
 
-bash
+```bash
 # Clone the repo
 git clone https://github.com/qwertykaran/Introduction-to-GenAI-and-Simple-and-finetuning-of-LLM-Model-to-create-a-Custom-Chatbot-main.git
 cd Introduction-to-GenAI-and-Simple-and-finetuning-of-LLM-Model-to-create-a-Custom-Chatbot-main
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 python app/chatbot.py
 
 ---
-
+```
 ## 💡 Key Features
 
 Fine-tunes a transformer-based LLM with custom dataset
@@ -56,14 +56,14 @@ Designed for quick experimentation and learning
 ---
 
 ## 📁 Project Structure
-
+```
 ├── data/         # dataset
 ├── models/       # fine-tuned models
 ├── notebook/     # training notebooks
 ├── app/          # chatbot code
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🧪 Outcome
